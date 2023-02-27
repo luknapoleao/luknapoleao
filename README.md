@@ -1,4 +1,4 @@
-<h1 align="center">🙂 Hello!! I am Lucas Napoleão. Thanks for visiting my github! 🙃</h1>
+<h1 align="center"> 💀 Hello!! I am Lucas Napoleão. Welcome to my github! 💀 </h1>
 
 <p align="Left">
 I'm Web and mobile programming student
@@ -47,8 +47,7 @@ move! 🚀
   }
   
   }
-
-  print("Hello World")
+ 
 
 ```  
 </div>
