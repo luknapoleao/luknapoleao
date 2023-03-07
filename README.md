@@ -25,11 +25,9 @@ move! 🚀
 [![Gmail Badge](https://img.shields.io/badge/luknapoleao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luknapoleao@gmail.com)](mailto:luknapoleao@gmail.com)
  
  ```swift
-//<-- My life Component --> 
+//<-- My Goals Component --> 
   
   Import SwiftUI
- 
-  class ViewController: UIViewController {
   
   fun MyLife() {
    let WhoAmI = {
@@ -40,15 +38,15 @@ move! 🚀
   }
   
   var localization = useState ("Brasil")
+  var workingWithVideos, setWorkingWithVideos = useState (true)
   
-  if let workWithDev = true: Happy 😎 
- { else } 
- 
-  return error.studyMore 😅
+  let jobInterview = () => {
+  let hired
+  if hired 
   
-     }
-   }
- }
+  }
+  
+  }
  
 
 ```  
@@ -59,12 +57,12 @@ move! 🚀
 ## Languages and Technologies
  <br/>
 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
  <br/>
 
 ## Some stats
