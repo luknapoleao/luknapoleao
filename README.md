@@ -29,24 +29,25 @@ move! 🚀
   
   Import SwiftUI
   
-  fun MyLife() {
-   let WhoAmI = {
-  
-  name: "Lucas Napoleão"
-  age: "30 years old"
-  hobbies: ["Play Guitar", "Make Videos", "Study Code", "Play Games"]
-  }
-  
-  var localization = useState ("Brasil")
-  var workingWithVideos, setWorkingWithVideos = useState (true)
-  
-  let jobInterview = () => {
-  let hired
-  if hired 
-  
-  }
-  
-  }
+  class Person {
+    var name: String
+    var age: Int
+    var address: String
+    
+    init(name: String, age: Int, address: String) {
+        self.name = name
+        self.age = age
+        self.address = address
+    }
+    
+    func introduce() -> String {
+        return "Hi, my name is \(Lucas Napoleão). I am \(30) years old and I live at \(São Paulo - Brasil)."
+    }
+}
+
+//exemple
+let person = Person(name: "Lucas Napoleão", age: 30, address: São Paulo Brasil)
+print(person.introduce())
  
 
 ```  
