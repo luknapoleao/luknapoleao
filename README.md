@@ -20,9 +20,7 @@ move! 🚀
 </p>
 
 <div align="Left">
- 
-[![Linkedin Badge](https://img.shields.io/badge/-LucasNapoleao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-napoleao/)](https://www.linkedin.com/in/lucas-napoleão-6a321ab5)
-[![Gmail Badge](https://img.shields.io/badge/luknapoleao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luknapoleao@gmail.com)](mailto:luknapoleao@gmail.com)
+
  
  ```swift
 //<-- My Goals Component --> 
@@ -66,11 +64,6 @@ print(person.introduce())
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
  <br/>
 
-## Some stats
- 
-| Github Stats | Top Languages |
-| --- | --- |
-| ![Napoleão github stats](https://github-readme-stats.vercel.app/api?username=luknapoleao&show_icons=true&title_color=9805e8&icon_color=9805e8&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Napoleao top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luknapoleao&show_icons=true&title_color=9805e8&icon_color=f9805e8&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
  
 <br/>
  
