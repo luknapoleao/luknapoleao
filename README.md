@@ -1,60 +1,29 @@
-<h1 align="center"> 💀 Hello!! I am Lucas Napoleão. Welcome to my github! 💀 </h1>
+<h1 align="center"> 💀 Hello!! # 👋 Olá, eu sou Lucas Napoleão! 💀 </h1>
 
-<p align="Left">
-I'm Web and mobile programming student
-developer, specialist in visual communication and
-strategy, design, musician, video maker.
-I am passionate about innovation, technology and
-problems waiting for a solution.
-I like to feel provoked out of my
-comfort zone and be free to leave the
-cashier contributing to the improvement of a project,
-brand or product is what enchants me and
-move! 🚀 
-</p>
-<p align="Left"> 
- My main goal is to develop myself and specialize in mobile and frontend technology!
-</p>
-<p align="Left"> 
- Also I'am Videomaker at EBAC 🎥
-</p>
+🎬 Head de Produção Audiovisual na EBAC  
+🤖 Desenvolvedor focado em IA, automação e produtos digitais  
+💻 Criando aplicações com Cursor, Lovable, React e Inteligência Artificial  
+🚀 +12 anos de experiência em audiovisual, eventos e educação digital  
 
-<div align="Left">
+### Atualmente
 
- 
- ```swift
-//<-- My Goals Component --> 
-  
-  Import SwiftUI
-  
-  class Person {
-    var name: String
-    var age: Int
-    var address: String
-    
-    init(name: String, age: Int, address: String) {
-        self.name = name
-        self.age = age
-        self.address = address
-    }
-    
-    func introduce() -> String {
-        return "Hi, my name is \(Lucas Napoleão). I am \(33) years old and I live at \(São Paulo - Brasil)."
-    }
-}
+- 🎥 Liderando o time de Produção Audiovisual da EBAC
+- 🤖 Desenvolvendo ferramentas com IA para vídeo, legendagem e produtividade
+- 📱 Criador do Prompter Midnight Studio
+- 🏃 Treinando para novos desafios na corrida
+- 🐶 Pai da Bisnaguinha, uma Golden Retriever cheia de energia
 
-//exemple
-let person = Person(name: "Lucas Napoleão", age: 31, address: São Paulo Brasil)
-print(person.introduce())
- 
+### Tecnologias
 
-```  
-</div>
+`React` `JavaScript` `TypeScript` `Node.js` `GitHub`
+`Cursor AI` `Lovable` `OpenAI`
+`vMix` `OBS` `DaVinci Resolve` `Adobe Premiere`
 
-<br/>
+### Objetivo
 
-## Languages and Technologies
- <br/>
+Construir produtos que conectem criatividade, tecnologia e inteligência artificial.
+
+📍 São Paulo, Brasil
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
